@@ -9,3 +9,6 @@ Requirements
 =============
 This code should run with Groovy 1.8 and Java 1.6 or later and, naturally, also requires Pashua.
 
+Status
+========
+The code in this repository was distributed with Pashua versions 0.9.4.5 thru 0.9.5.1. As of August 2014, it is deprecated and no longer maintained.
